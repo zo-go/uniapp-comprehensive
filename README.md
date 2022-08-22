@@ -1,4 +1,5 @@
-# uniapp-mall
-uniapp 商城项目
+# uniapp-comprehensive
+uniapp 综合练习
 
-## uniapp 商城demo
+## uniapp 综合练习
+
